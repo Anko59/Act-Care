@@ -1,0 +1,53 @@
+/** Center the button (inside it's column) **/
+.caldera-grid .btn {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/** Make button the full width of the column **/
+.caldera-grid .btn {
+    width:100% !important;
+}
+
+/** Change Background color and text color **/
+.caldera-grid .btn {
+    background-color:rgb(144,202,249) !important;
+    font-size: 25px !important;
+    font-family: 'Helevetica' !important;
+}
+
+/** Change Background color and text color on hover **/
+.caldera-grid .btn:hover {
+    background-color:black !important;
+    color:rgb(144,202,249) !important;
+}
+.div .tribe-events-single-event-description .tribe-events-content{
+	font-size: 200%;
+
+}
+.tribe-events-calendar thead th {
+    font-family: 'Hammersmith One';
+}
+#tribe-events-bar * {
+    font-family: 'Helevetica';
+}
+#tribe-bar-form .tribe-bar-filters-inner {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+#tribe-bar-form .tribe-bar-submit input[type=submit]{
+    background-color: #3498db;
+    font-family: 'Helevetica';
+}
+.tribe-events-calendar div[id*=tribe-events-event-] h3.tribe-events-month-event-title a {
+    font-family: 'Hammersmith One';
+}
+.single-tribe_events #tribe-events-content .tribe-events-event-meta dt {
+    font-family: 'Hammersmith One';
+}
+#tribe_events_filters_wrapper label.tribe-events-filters-label {
+    font-family: 'Hammersmith One';
+
+}
